@@ -116,7 +116,7 @@ Software Development Student | Python | Game Development
 
 <div align="center">
 
-**Made with ❤️ and Python**
+
 
 *This is an independent educational project inspired by classic platform games. It is not affiliated with Nintendo.*
 
